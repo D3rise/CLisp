@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Lisp.dir/main.c.obj"
-  "Lisp.exe"
-  "Lisp.exe.manifest"
-  "Lisp.lib"
+  "CMakeFiles/Lisp.dir/main.c.o"
+  "Lisp"
   "Lisp.pdb"
 )
 

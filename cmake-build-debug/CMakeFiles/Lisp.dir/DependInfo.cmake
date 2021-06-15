@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/deris/CLionProjects/Lisp/main.c" "C:/Users/deris/CLionProjects/Lisp/cmake-build-debug/CMakeFiles/Lisp.dir/main.c.obj"
+  "/home/derise/CLionProjects/CLisp/main.c" "/home/derise/CLionProjects/CLisp/cmake-build-debug/CMakeFiles/Lisp.dir/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
